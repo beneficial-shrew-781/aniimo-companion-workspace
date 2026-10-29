@@ -1,0 +1,22 @@
+{
+  "name": "aniimo-companion-workspace",
+  "displayName": "Aniimo Companion Workspace",
+  "programType": "companion-workspace",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Collection notes",
+    "Exploration plans",
+    "Session profiles"
+  ],
+  "topics": [
+    "aniimo-companion-workspace",
+    "aniimo-tools",
+    "aniimo-menu",
+    "aniimo-settings",
+    "aniimo-configs",
+    "aniimo-collection-notes",
+    "aniimo-exploration-plans"
+  ]
+}
